@@ -1,4 +1,10 @@
 version: "3.9"
+# - https://github.com/htpcBeginner/docker-traefik/blob/master/docker-compose-t2.yml
+# - https://github.com/dockserver/dockserver
+# - https://github.com/faritvidal/Config-Traefik-2.2.X
+# - https://github.com/ronioncloud/Traefikv2
+# - https://github.com/GamermadHD/traefikv2apps
+
 
 ### Networks
 # Should be no need to create any networks outside this file
